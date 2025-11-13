@@ -1,0 +1,13 @@
+# Ignore Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+env/
+
+# Editor directories
+.vscode/
+
+# OS files
+.DS_Store
